@@ -1,2 +1,2 @@
-# Tabuada-em-PHP
+# Tabuada em PHP
 Tabuada feito em PHP
